@@ -14,34 +14,34 @@ I am use **Exploratory Data Analysis (EDA)** and a **Linear Regression model** t
 - Scikit-learn
     
 ## 📌Steps
-Import Libraries – Load all necessary Python libraries.
+- Import Libraries – Load all necessary Python libraries.
 
-Load Dataset – Read the dataset using Pandas.
+- Load Dataset – Read the dataset using Pandas.
 
-Data Cleaning – Handle missing values, remove duplicates, and format data types.
+- Data Cleaning – Handle missing values, remove duplicates, and format data types.
 
-Exploratory Data Analysis (EDA) –
+- Exploratory Data Analysis (EDA) 
 
-Analyze data distribution.
+- Analyze data distribution.
 
-Create correlation heatmaps.
+- Create correlation heatmaps.
 
-Visualize relationships between features and the target variable.
+- Visualize relationships between features and the target variable.
 
-Feature Selection – Select the most relevant features based on correlation and domain knowledge.
+- Feature Selection – Select the most relevant features based on correlation and domain knowledge.
 
-Train-Test Split – Split the data into training and testing sets.
+- Train-Test Split – Split the data into training and testing sets.
 
-Feature Scaling (Optional) – Standardize or normalize features if needed.
+- Feature Scaling  – Standardize or normalize features if needed.
 
-Model Training – Train a Linear Regression model using the training set.
+- Model Training – Train a Linear Regression model using the training set.
 
-Model Evaluation –
+- Model Evaluation 
 
-Calculate metrics like Mean Squared Error (MSE) and R² Score.
+- Calculate metrics like Mean Squared Error (MSE) and R² Score.
 
-Compare predictions with actual values.
+- Compare predictions with actual values.
 
-Visualization – Plot predicted vs. actual scores, regression line, and residuals.
+- Visualization – Plot predicted vs. actual scores, regression line, and residuals.
 
-Conclusion – Summarize findings and model performance. 
+- Conclusion – Summarize findings and model performance. 
