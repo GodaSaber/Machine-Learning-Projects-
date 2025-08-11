@@ -1,7 +1,7 @@
 # 📊 Student Score Prediction – Linear Regression  
 
 ## 📌 Project Overview  
-This project predicts a student's score based on alot of feature.  
+This project predicts a student's score based on alot of features like ['Attendance', 'Hours_Studied', 'Previous_Scores', 'Tutoring_Sessions', 'Peer_Influence', 'Parental_Involvement].  
 I am use **Exploratory Data Analysis (EDA)** and a **Linear Regression model** to analyze the relationship and make predictions.  
 
 ---
